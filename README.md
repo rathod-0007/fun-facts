@@ -1,31 +1,24 @@
-# Mountain Facts Generator 🏔️
+# Random Facts App
 
-A simple, interactive web application that generates random personal facts about my mountain adventures and experiences. Built using HTML, CSS, and JavaScript.
+This is a simple single-page application that displays random facts about you. The app is built using HTML, CSS, and JavaScript, and it allows users to generate a random fact by clicking a button.
 
-## 📝 Description
+## Features
 
-This single-page application displays random facts about a 20-year-old mountain enthusiast. It features a clean, modern interface with smooth transitions and a mountain-themed design.
+- Displays random facts about the user.
+- Simple and clean user interface.
+- Responsive design for various screen sizes.
 
-## ✨ Features
+## Technologies Used
 
-- Random fact generation with click of a button
-- Smooth fade transitions between facts
-- Responsive design that works on all devices
-- Mountain-themed gradient background
-- Interactive UI elements
+- HTML
+- CSS
+- JavaScript
 
-## 🛠️ Technologies Used
+## Setup
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
+To set up the project locally, follow these steps:
 
-## 🚀 Live Demo
+1. **Clone the repository:**
 
-Visit the live application at: https://[your-username].github.io/mountain-facts-generator/
-
-## 💻 Installation & Setup
-
-1. Clone the repository:
-```bash
-git clone https://github.com/[your-username]/mountain-facts-generator.git
+   ```bash
+   git clone https://github.com/your-username/random-facts-app.git
